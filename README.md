@@ -243,7 +243,7 @@ The project showcases practical data analytics skills relevant to entry-level Da
 
 ---
 
-**Author:** Vaishnavi Sainath
+**Author:** Vaishnavi Sainath Pachange
 
 **Tools:** Python | SQL Server | Power BI | DAX
 
